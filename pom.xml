@@ -9,10 +9,17 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
+<<<<<<< HEAD
 	<artifactId>TinySpringbootProgram</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TinySpringbootProgram</name>
 	<description>Demo project for Spring Boot</description>
+=======
+	<artifactId>demo</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>TinySpringbootProgram</name>
+	<description>according bilibili</description>
+>>>>>>> e3080a204fab0bc6815bde0e9ac20f0f32537f16
 	<url/>
 	<licenses>
 		<license/>
@@ -36,7 +43,11 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
+<<<<<<< HEAD
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
+=======
+			<artifactId>spring-boot-starter-jdbc</artifactId>
+>>>>>>> e3080a204fab0bc6815bde0e9ac20f0f32537f16
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
